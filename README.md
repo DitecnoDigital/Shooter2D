@@ -37,6 +37,10 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
     Los Recursos como Fuentes y Sprites se encuentran en este mismo repositorio.
     Los encabezados de las clases Player,Enemie, Bullet,UISounds tienen extención .hpp 
     y el desarrollo de los metodos y contructores Player,Enemie.... tienen extención .cpp
+    
+### Para compilar desde la terminal aplica la siguiente linea:        
+
+    g++ Main.cpp Player.cpp Bullet.cpp Enemie.cpp UISounds.cpp -lsfml-graphics -lsfml-system -lsfml-window -lsfml-audio -o Game
 
 ### Realizado por:
             Juan José Läderach con fines educativos el 27 de mayo del 2023
