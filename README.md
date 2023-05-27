@@ -5,7 +5,7 @@ Tutorial de como realizar "Shooter 2D Top Down " en  lenguaje C++ donde puedes v
 
 ### ⭐️Youtube:
 
-#### 🕹 Juego de Memoria
+#### 🕹 Juego Shooter 2D
  [![](https://img.shields.io/badge/YouTube-Shooter2D-red)](https://www.youtube.com/watch?v=yMiyZXzqaOk&t=1196s)
  
  ### ⭐️ Otros tutoriales que puedes ver:
