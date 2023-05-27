@@ -1,12 +1,12 @@
 ![This is me](https://github.com/DitecnoDigital/MemoTest/blob/main/portada.png)
 
-# Juego "MemoTest"
-Tutorial de como realizar "Juego de Memoria " en  lenguaje C++ donde puedes ver el paso a paso en:
+# Juego "Shooter 2D"
+Tutorial de como realizar "Shooter 2D Top Down " en  lenguaje C++ donde puedes ver el paso a paso en:
 
 ### ⭐️Youtube:
 
 #### 🕹 Juego de Memoria
- [![](https://img.shields.io/badge/YouTube-MemoTest-red)](https://www.youtube.com/watch?v=RX-fkYPeb3c)
+ [![](https://img.shields.io/badge/YouTube-Shooter2D-red)](https://www.youtube.com/watch?v=yMiyZXzqaOk&t=1196s)
  
  ### ⭐️ Otros tutoriales que puedes ver:
  
@@ -35,11 +35,10 @@ Esta realizado bajo la plataforma linux. Entonces tener ciertas consideraciones 
 
     La declaración de la Matriz varía segun el compilador.
     Los Recursos como Fuentes y Sprites se encuentran en este mismo repositorio.
-    Los encabezados de las clases Ficha e Interfaz tienen extención .hpp y el desarrollo de los metodos y contructores
-    Ficha e Interfaz tienen extención .cpp
+    Los encabezados de las clases Player,Enemie, Bullet,UISounds tienen extención .hpp y el desarrollo de los metodos y contructores Player,Enemie.... tienen extención .cpp
 
 ### Realizado por:
-            Juan José Läderach con fines educativos el 20 de marzo del 2023
+            Juan José Läderach con fines educativos el 27 de mayo del 2023
 
 
 ## Puedes seguirme en:
