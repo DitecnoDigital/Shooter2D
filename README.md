@@ -1,4 +1,4 @@
-![This is me](https://github.com/DitecnoDigital/MemoTest/blob/main/portada.png)
+![This is me](https://github.com/DitecnoDigital/Shooter2D/blob/main/PortadaShooter.png)
 
 # Juego "Shooter 2D"
 Tutorial de como realizar "Shooter 2D Top Down " en  lenguaje C++ donde puedes ver el paso a paso en:
